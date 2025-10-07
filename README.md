@@ -43,6 +43,6 @@ The final deliverable will be a single, self-contained .PBIX file. This file enc
 
 OUTPUT
 
-
+<img width="1132" height="670" alt="Image" src="https://github.com/user-attachments/assets/c669e813-50df-413a-a540-98cf8fedf9b3" />
 <img width="792" height="444" alt="Image" src="https://github.com/user-attachments/assets/91d68e49-c180-4b0d-b82d-514b2e78dc91" />
 
