@@ -42,7 +42,7 @@ The project will begin with connecting to a sample dataset (provided as a CSV fi
 The final deliverable will be a single, self-contained .PBIX file. This file encapsulates the entire project: the imported data, the data transformation steps (the query), the data model, all DAX calculations, and the interactive report canvas with all its configured visuals and slicers. This file can be easily shared with other Power BI users, published to the Power BI service for wider web-based access, or serve as a template for future, more complex sales dashboards.
 
 OUTPUT
-<img width="1132" height="670" alt="Image" src="https://github.Com/user-attachments/assets/beb5ead1-7a3e-4107-ad27-3df7168342c7" />
+
 
 <img width="792" height="444" alt="Image" src="https://github.com/user-attachments/assets/91d68e49-c180-4b0d-b82d-514b2e78dc91" />
 
