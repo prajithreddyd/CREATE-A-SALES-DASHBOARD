@@ -1,0 +1,16 @@
+OrderID,OrderDate,Region,Product,UnitsSold,UnitPrice
+1001,01-15-2024,North,Laptop,10,1200
+1002,02-20-2024,South,Keyboard,25,75
+1003,02-22-2024,North,Monitor,15,300
+1004,03-10-2024,West,Mouse,50,25
+1005,03-12-2024,East,Laptop,8,1250
+1006,04-05-2024,South,Webcam,30,50
+1007,05-21-2024,North,Keyboard,20,75
+1008,06-18-2024,West,Laptop,12,1200
+1009,07-07-2024,East,Monitor,10,320
+1010,07-30-2024,South,Mouse,40,25
+1011,08-14-2024,North,Webcam,22,55
+1012,09-01-2024,West,Keyboard,18,80
+1013,10-11-2024,East,Mouse,35,30
+1014,11-25-2024,South,Monitor,13,310
+1015,12-28-2024,West,Laptop,15,1150
